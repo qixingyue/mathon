@@ -9,7 +9,7 @@
 	},
 	"autoload":{
 		"files":["fun.php"],
-		"psr-r":{
+		"psr-4":{
 			"mathon\\":"lib/"
 		}
 	},
