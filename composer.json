@@ -1,0 +1,19 @@
+{
+	"name":"qixingyue/mathon",
+	"description":"http://www.runchina.org.cn/ API description.",
+	"keywords":["mathon","php","curl"],
+	"license":"MIT",
+	"type":"project",
+	"require": {
+		"electrolinux/phpquery": "*"
+	},
+	"autoload":{
+		"files":["m.php"]
+	},
+	"repositories": {
+		"packagist": {
+			"type": "composer",
+			"url": "https://packagist.phpcomposer.com"
+		}
+	}
+}
