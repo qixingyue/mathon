@@ -5,7 +5,7 @@
 	"license":"MIT",
 	"type":"project",
 	"require": {
-		"electrolinux/phpquery": "*",
+		"electrolinux/phpquery": "*"
 	},
 	"autoload":{
 		"files":["fun.php"],
