@@ -8,10 +8,7 @@
 		"electrolinux/phpquery": "*"
 	},
 	"autoload":{
-		"files":["fun.php"],
-		"psr-4":{
-			"mathon\\":"lib/"
-		}
+		"files":["fun.php"]
 	},
 	"repositories": {
 		"packagist": {
