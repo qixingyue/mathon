@@ -5,10 +5,13 @@
 	"license":"MIT",
 	"type":"project",
 	"require": {
-		"electrolinux/phpquery": "*"
+		"electrolinux/phpquery": "*",
 	},
 	"autoload":{
-		"files":["m.php"]
+		"files":["fun.php"],
+		"psr-r":{
+			"mathon\\":"lib/"
+		}
 	},
 	"repositories": {
 		"packagist": {
