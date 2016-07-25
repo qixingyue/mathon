@@ -2,6 +2,7 @@
 	"name":"qixingyue/mathon",
 	"description":"http://www.runchina.org.cn/ API description.",
 	"keywords":["mathon","php","curl"],
+	"version":"1.0.0",
 	"license":"MIT",
 	"type":"project",
 	"require": {
