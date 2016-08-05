@@ -4,6 +4,7 @@
 	"keywords":["mathon","php","curl"],
 	"license":"MIT",
 	"type":"project",
+	"version":"1.0.1",
 	"require": {
 		"electrolinux/phpquery": "*"
 	},
